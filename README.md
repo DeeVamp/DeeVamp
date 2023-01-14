@@ -4,14 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Content Creator | Junior Web Developer
 --------------------------------------
 
-I started learning how to code around 4 years ago but changed the path to content creation, now I'm back at coding with the intention of becoming a full-time front-end developer. I'm currently learning React JS.
+I started learning how to code around 4 years ago but changed the path to content creation, now I'm back at coding with the intention of becoming a full-time Front-End Developer.
 
-* 🌍  I'm based in Iran, Tehran
-* ✉️  You can contact me at [deevamp1@gmail.com](mailto:deevamp1@gmail.com)
-* 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on Internships and Interesting Projects
+* 🌍  I'm based in Iran, Tehran
+* ✉️  You can contact me at [deevamp1@gmail.com](mailto:deevamp1@gmail.com)
+* 🧠  I'm learning React JS
+* 🤝  I'm open to collaborating on Internships and Interesting Projects
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,6 +25,7 @@ I started learning how to code around 4 years ago but changed the path to conten
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
+
 
 ### Socials
 
